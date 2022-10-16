@@ -1,4 +1,4 @@
-### Hi there 👋
+### プログラミング勉強中 👋
 
 <!--
 **shogo1045/shogo1045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
